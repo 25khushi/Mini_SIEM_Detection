@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini SIEM – Security Log Monitoring & Threat Detection
 
 Educational SOC-style project built with Python, Streamlit, Pandas and SQLite.
@@ -62,3 +63,6 @@ Examples:
 - Privilege escalation event → CRITICAL
 
 Use only logs and systems you are authorized to monitor.
+=======
+# Mini_SIEM_Detection
+>>>>>>> 11003c311039af5ed495ee4560d1a1f9e9d21716
